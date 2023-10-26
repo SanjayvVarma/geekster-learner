@@ -1,2 +1,0 @@
-# geekster-learner
-author sanjay
